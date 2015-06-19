@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  matter_no: 1
+  barrister: MyString
+  matter_name: MyString
+  user: MyString
+  last_updated: 2015-06-20 02:29:38
+  amount: 1
+
+two:
+  matter_no: 1
+  barrister: MyString
+  matter_name: MyString
+  user: MyString
+  last_updated: 2015-06-20 02:29:38
+  amount: 1
